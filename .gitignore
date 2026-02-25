@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+validation_output.txt
+bi-agent.zip
+.venv/
+venv/
+.streamlit/
+validate_ready.py
